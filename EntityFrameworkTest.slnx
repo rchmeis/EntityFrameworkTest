@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="EntityFrameworkTest/EntityFrameworkTest.csproj" />
+  <Project Path="EntityTest/EntityTest.csproj" />
+</Solution>
