@@ -9,7 +9,7 @@ namespace EntityTest
         static void Main(string[] args)
         {
             var dbWorker = new ProductService();
-            dbWorker.Start();
+            dbWorker.DisplayAllProducts();
         }
     }
 }
