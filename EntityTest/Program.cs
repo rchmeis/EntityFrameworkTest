@@ -8,8 +8,8 @@ namespace EntityTest
 
         static void Main(string[] args)
         {
-            var dbWorker = new ProductService();
-            dbWorker.DisplayAllProducts();
+            var productService = new ProductService();
+            productService.DisplayAllProducts();
         }
     }
 }
